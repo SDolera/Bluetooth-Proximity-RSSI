@@ -1,0 +1,15 @@
+# Build files
+*.o
+*.elf
+*.hex
+*.exe
+
+# Atmel / AVR Studio
+Debug/
+Release/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
